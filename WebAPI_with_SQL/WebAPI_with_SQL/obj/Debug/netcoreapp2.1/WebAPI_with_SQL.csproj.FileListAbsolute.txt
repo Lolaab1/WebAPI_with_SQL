@@ -1,0 +1,14 @@
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\bin\Debug\netcoreapp2.1\WebAPI_with_SQL.deps.json
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\bin\Debug\netcoreapp2.1\WebAPI_with_SQL.runtimeconfig.json
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\bin\Debug\netcoreapp2.1\WebAPI_with_SQL.runtimeconfig.dev.json
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\bin\Debug\netcoreapp2.1\WebAPI_with_SQL.dll
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\bin\Debug\netcoreapp2.1\WebAPI_with_SQL.pdb
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.csprojAssemblyReference.cache
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.csproj.CoreCompileInputs.cache
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.RazorAssemblyInfo.cache
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.RazorAssemblyInfo.cs
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.AssemblyInfoInputs.cache
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.AssemblyInfo.cs
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.RazorTargetAssemblyInfo.cache
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.dll
+C:\Users\train1\Desktop\API\WebAPI_with_SQL\WebAPI_with_SQL\obj\Debug\netcoreapp2.1\WebAPI_with_SQL.pdb
