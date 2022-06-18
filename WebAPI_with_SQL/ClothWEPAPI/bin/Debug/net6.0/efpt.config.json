@@ -1,0 +1,127 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ClothesDBContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "ClothWEPAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Accounts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Balances]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Bill]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Currency]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DetailsBill]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Login]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Materials]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MaterialsCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Stores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Query1]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Query2]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_1]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_2]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_3]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ADDCATEGORIES]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[AmountCategories]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[BackUpDB]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DELETECATEGORIES]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GET_ALL_CUSTOMERS]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "THARWATEXAM\\SQL2019STD.ClothesDB",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
